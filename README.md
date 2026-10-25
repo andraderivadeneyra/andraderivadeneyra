@@ -17,11 +17,3 @@ Estudiante de **Matemáticas Aplicadas y Computación (MAC)** en la FES Acatlán
 
 ---
 
-### 📊 Estadísticas y Actividade de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
