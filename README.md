@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/banner-github.jpg" width="100%" alt="Machine Learning & AI Banner" />
+  <img src="<img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/43e8ca13-6ce3-4074-a96b-273bc2e4777c" />
+ />
 </div>
 
 # ¡Hola, qué tal! 👋 Soy German Andrade Rivadeneyra
