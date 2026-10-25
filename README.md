@@ -1,4 +1,5 @@
 # ¡Hola! Soy Germán 👋
+<img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/eaf9b4c8-183f-49dd-ab92-888d6ccb1d33" />
 
 ¡Bienvenido/a a mi perfil de GitHub! Aquí comparto mis proyectos, lo que voy aprendiendo y las ideas que quiero explorar.
 
