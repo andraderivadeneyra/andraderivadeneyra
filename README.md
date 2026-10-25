@@ -1,4 +1,4 @@
-# ¡Hola! Soy German 👋
+# ¡Hola! Soy Germán 👋
 
 ¡Bienvenido/a a mi perfil de GitHub! Aquí comparto mis proyectos, lo que voy aprendiendo y las ideas que quiero explorar.
 
