@@ -1,21 +1,23 @@
-# ¡Hola! Soy Germán 👋
-<img width="1024" height="318" alt="image" src="https://github.com/user-attachments/assets/eaf9b4c8-183f-49dd-ab92-888d6ccb1d33" />
+¡Hola, soy [Tu Nombre]! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Aquí comparto mis proyectos, lo que voy aprendiendo y las ideas que quiero explorar.
+Bienvenido/a a mi perfil de GitHub. Me apasiona el desarrollo de software, la Inteligencia Artificial y el Machine Learning. Aquí encontrarás proyectos orientados a resolver problemas complejos utilizando datos, modelos de deep learning y arquitecturas modernas.
 
-- 🔭 Actualmente estoy trabajando en un proyecto de machine learning.
-- 🌱 Estoy aprendiendo .
-- 👯 Me gustaría colaborar en **[tipo de proyectos que te interesan]**.
-- 🤔 Estoy buscando ayuda con **[algo que quieras aprender o resolver]**.
-- 💬 Podemos conversar sobre **[tus intereses]**.
-- 📫 Puedes contactarme en **[correo o enlace a LinkedIn]**.
-- ⚡ Un dato curioso sobre mí: **[algo que te guste o te haga único/a]**.
+🚀 Sobre mí
 
-## 🛠️ Tecnologías y herramientas
-Python 
-## 🚀 Mis proyectos
+🔭 Actualmente estoy trabajando en proyectos de Machine Learning y Deep Learning.
 
-- **[Nombre del proyecto]:** [qué hace y por qué lo creaste].
-- **[Nombre del proyecto]:** [qué hace y por qué lo creaste].
+🌱 Aprendiendo más sobre arquitecturas de modelos avanzados, procesamiento de lenguaje natural (PLN) y MLOps.
 
-¡Gracias por visitar mi perfil! ✨
+⚡ Curiosidad constante por cómo la tecnología y la IA pueden transformar el mundo.
+
+🛠️ Tecnologías y Herramientas
+
+📊 Estadísticas de GitHub
+
+📫 Conéctate conmigo
+
+💼 LinkedIn: Tu Perfil de LinkedIn
+
+🐦 Twitter / X: @tu_usuario
+
+🌐 Portafolio / Sitio Web: tudominio.com
