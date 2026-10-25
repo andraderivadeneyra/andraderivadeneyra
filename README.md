@@ -1,23 +1,27 @@
-¡Hola, soy [Tu Nombre]! 👋
+<div align="center">
+  <img src="./assets/banner-github.jpg" width="100%" alt="Machine Learning & AI Banner" />
+</div>
 
-Bienvenido/a a mi perfil de GitHub. Me apasiona el desarrollo de software, la Inteligencia Artificial y el Machine Learning. Aquí encontrarás proyectos orientados a resolver problemas complejos utilizando datos, modelos de deep learning y arquitecturas modernas.
+# ¡Hola, qué tal! 👋 Soy German Andrade Rivadeneyra
 
-🚀 Sobre mí
+Estudiante de **Matemáticas Aplicadas y Computación (MAC)** en la FES Acatlán (UNAM). Apasionado por la ciencia de datos, el aprendizaje automático y el desarrollo de software. Actualmente enfocando mi autoestudio en Python, Machine Learning, AWS y bases de datos.
 
-🔭 Actualmente estoy trabajando en proyectos de Machine Learning y Deep Learning.
+---
 
-🌱 Aprendiendo más sobre arquitecturas de modelos avanzados, procesamiento de lenguaje natural (PLN) y MLOps.
+### 🛠️ Tecnologías y Herramientas
 
-⚡ Curiosidad constante por cómo la tecnología y la IA pueden transformar el mundo.
+* **Lenguajes:** Python, SQL, JavaScript
+* **Data Science / ML:** Pandas, Scikit-Learn, PyTorch
+* **Bases de Datos:** PostgreSQL, pgAdmin
+* **Cloud & DevOps:** AWS, Git, GitHub Codespaces, PowerShell, Node.js
 
-🛠️ Tecnologías y Herramientas
+---
 
-📊 Estadísticas de GitHub
+### 📊 Estadísticas y Actividade de GitHub
 
-📫 Conéctate conmigo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-💼 LinkedIn: Tu Perfil de LinkedIn
-
-🐦 Twitter / X: @tu_usuario
-
-🌐 Portafolio / Sitio Web: tudominio.com
+---
